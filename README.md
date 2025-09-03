@@ -108,20 +108,20 @@ mvn spring-boot:run
 
 Open browser at http://localhost:8080
 
-Test REST APIs via Postman
+## Test REST APIs via Postman
 
 Access WebSocket demo at /ws endpoint
 
 API Endpoints / Demo
 Endpoint	Method	Description
-/users	GET	Get all users
-/users/{id}	GET	Get user by ID
-/users	POST	Create a new user
-/users/{id}	PUT	Update user by ID
-/users/{id}	DELETE	Delete user by ID
-/auth/login	POST	User login with JWT
-/auth/register	POST	User registration
-/ws	GET	WebSocket test page
+1. /users	GET	Get all users
+2. /users/{id}	GET	Get user by ID
+3. /users	POST	Create a new user
+4. /users/{id}	PUT	Update user by ID
+5. /users/{id}	DELETE	Delete user by ID
+6. /auth/login	POST	User login with JWT
+7. /auth/register	POST	User registration
+8. /ws	GET	WebSocket test page
 
 Screenshots / Demo
 ### 🔹 AWS S3 Upload Demo  
