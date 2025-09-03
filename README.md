@@ -144,12 +144,12 @@ Email: satnamsinghramavath9320@gmail.com
 
 ## Future Enhancements
 
-Dockerize backend and run containerized services
+- Dockerize backend and run containerized services
 
-Deploy on AWS EC2 with CI/CD (GitHub Actions)
+- Deploy on AWS EC2 with CI/CD (GitHub Actions)
 
-Add unit and integration tests
+- Add unit and integration tests
 
-Add role-based authorization (JWT/OAuth2)
+- Add role-based authorization (JWT/OAuth2)
 
-Expand microservice modules beyond user service
+- Expand microservice modules beyond user service
