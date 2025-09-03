@@ -123,7 +123,8 @@ Endpoint	Method	Description
 7. /auth/register	POST	User registration
 8. /ws	GET	WebSocket test page
 
-Screenshots / Demo
+---
+## Screenshots / Demo
 ### 🔹 AWS S3 Upload Demo  
 ![AWS S3 Screenshot](screenshots/aws-s3.png)  
 
