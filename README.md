@@ -95,7 +95,7 @@ FoodiesAPI/
 ## **How to Run Locally**
 
 ### **1. Clone the repository**
-```bash
+bash
 git clone <your-github-repo-url>
 cd FoodiesAPI
 
@@ -134,17 +134,15 @@ Screenshots / Demo
 ![WebSocket Screenshot](screenshots/websocket.png)  
 
 
-Author
+## Author
 
 Satnam Singh Ramavath
 
-GitHub: https://github.com/<your-username>
+GitHub: https://github.com/satnamsinghr
 
-LinkedIn: https://www.linkedin.com/in/<your-linkedin>
+Email: satnamsinghramavath9320@gmail.com
 
-Email: your-email@example.com
-
-Future Enhancements
+## Future Enhancements
 
 Dockerize backend and run containerized services
 
